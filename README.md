@@ -10,7 +10,7 @@ Simplemde editor extension for laravel-admin
 ## Installation
 
 ```bash
-composer require laravel-admin-ext/simplemde
+composer require fotobank/simplemde
 ```
 
 Then
